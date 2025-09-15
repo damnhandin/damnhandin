@@ -80,10 +80,6 @@
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/>
   <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=aiohttp" height="40" alt="aiohttp"/>
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/aiogram-2.0+-blue?logo=telegram&logoColor=white" height="25" alt="Aiogram"/>
-  <img width="8"/>
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
@@ -96,16 +92,10 @@
   <!-- Messaging / Infra -->
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="RabbitMQ"/>
   <img width="8"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white" height="25" alt="Celery"/>
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/Flower-FFCC00?logo=flower&logoColor=black" height="25" alt="Flower"/>
-  <img width="8"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
   <img width="8"/>
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" height="25" alt="pytest"/>
-  <img width="8"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions"/>
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
