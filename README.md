@@ -11,6 +11,7 @@
   <a href="https://t.me/offhandin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+
 </div>
 
 ###
@@ -23,14 +24,15 @@
 Опыт как в <b>фриланс-проектах</b>, так и в <b>стартапах</b>: собирал команды, разрабатывал продукты от идеи до релиза.
 </p>
 
-<ul align="left">
-  <li>🚀 Опыт работы с RabbitMQ, FastAPI, retry-queues (TTL)</li>
-  <li>📊 Использую PostgreSQL, MySQL, SQLite | (SQLAlchemy, Asyncpg)</li>
-  <li>🔒 Знаю, как защищать код от SQL-инъекций, CSRF, XSS, повторных запросов (idempotency), brute force (rate limiting) и несанкционированного доступа к API (CORS, авторизация, токены).</li>
-  <li>🌐 Есть опыт с Django: создавал агрегатор микрозаймов с админкой и БД</li>
-  <li>🖥 Уверенно владею HTML, CSS, TailwindCSS, JS; изучаю Vue.js</li>
-  <li>📄 Автоматизировал документацию и бизнес-процессы (Python + VBA в Excel)</li>
-  <li>🧩 Кайфую от микросервисной архитектуры: умею проектировать и разрабатывать распределённые системы</li>
+<ul>
+  <li><b>Backend:</b> Python, FastAPI, Django, aiohttp, aiogram 2/3</li>
+  <li><b>Базы данных:</b> PostgreSQL, MySQL, SQLite (SQLAlchemy, Asyncpg)</li>
+  <li><b>Очереди и асинхронность:</b> RabbitMQ, retry-queues (TTL)</li>
+  <li><b>Инфраструктура:</b> Docker, Docker Compose, CI/CD (GitHub Actions)</li>
+  <li><b>Тестирование и качество:</b> pytest, unittest, coverage, flake8, black, mypy</li>
+  <li><b>Безопасность:</b> защита от SQLi, CSRF, XSS; rate limiting; JWT/OAuth2; CORS</li>
+  <li><b>Командные практики:</b> Agile/Scrum, code review, Git Flow</li>
+  <li><b>Документация:</b> OpenAPI/Swagger, автоматизация (Python + VBA)</li>
 </ul>
 
 ###
@@ -41,31 +43,53 @@
 
 ###
 
-<h3 align="left">🛠 Технологии</h3>
+<!-- ICONS -->
+<h3>🛠 Стек</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
+  <img width="8"/>
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="RabbitMQ"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" height="24" alt="pytest"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/flake8-2b6db8?logo=python&logoColor=white" height="24" alt="flake8"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/black-000?logo=python&logoColor=white" height="24" alt="black"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/mypy-1f6feb?logo=python&logoColor=white" height="24" alt="mypy"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions"/>
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" alt="frontend logos"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo"  />
-</div>
+###
+
+<!-- ACHIEVEMENTS -->
+<h3>🏆 Примеры достижений</h3>
+<ul>
+  <li>Запустил Telegram-бота с аудиторией <b>50 000+ пользователей</b>, к сожалению, проект закрылся.</li>
+  <li>Спроектировал микросервисную архитектуру с <b>очередями</b> и <b>retry-механизмами</b> (TTL).</li>
+  <li>В роли тимлида: собирал команду, проводил <b>code review</b>, организовывал релизы в формате <b>Agile/Scrum</b>.</li>
+</ul>
+
+<!-- HOW I WORK -->
+<h3>🧩 Как я работаю</h3>
+<ul>
+  <li><b>Качество кода:</b> TDD/pytest, покрытие критичных путей, pre-commit (flake8, black, mypy).</li>
+  <li><b>Процессы:</b> короткие спринты, четкие Definition of Done, обязательный code review.</li>
+  <li><b>API:</b> REST с OpenAPI/Swagger, OAuth2/JWT, идемпотентность, rate limiting.</li>
+</ul>
 
 ###
 
@@ -78,7 +102,7 @@
 </p>
 <p align="left"><strong>👉 На интервью могу рассказать о реальных кейсах:</strong></p>
 <ul>
-  <li>запуск Telegram-бота с аудиторией <strong>50&nbsp;000+</strong> пользователей;</li>
+  <li>запуск Telegram-бота с аудиторией <strong>50 000+</strong> пользователей;</li>
   <li>проектирование микросервисной архитектуры с очередями и retry-механизмами;</li>
   <li>опыт тимлида: сбор команды, ведение задач, релизы от идеи до продакшена.</li>
 </ul>
