@@ -61,31 +61,68 @@
 <!-- ICONS -->
 <h3>🛠 Стек</h3>
 <p>
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
   <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS"/>
+  <img width="8"/>
+
+  <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/>
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/>
   <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=aiohttp" height="40" alt="aiohttp"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/aiogram-2.0+-blue?logo=telegram&logoColor=white" height="25" alt="Aiogram"/>
+  <img width="8"/>
+
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
   <img width="8"/>
+
+  <!-- Messaging / Infra -->
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="RabbitMQ"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white" height="25" alt="Celery"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/Flower-FFCC00?logo=flower&logoColor=black" height="25" alt="Flower"/>
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
   <img width="8"/>
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" height="24" alt="pytest"/>
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/flake8-2b6db8?logo=python&logoColor=white" height="24" alt="flake8"/>
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/black-000?logo=python&logoColor=white" height="24" alt="black"/>
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/mypy-1f6feb?logo=python&logoColor=white" height="24" alt="mypy"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" height="25" alt="pytest"/>
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img width="8"/>
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="Swagger/OpenAPI"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+  <img width="8"/>
+
+  <!-- AI / LLM -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="25" alt="OpenAI"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/YandexGPT-FF0000?logo=yandex&logoColor=white" height="25" alt="YandexGPT"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/SunoAI-FF6B6B?logoColor=white" height="25" alt="SunoAI"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white" height="25" alt="Gemini"/>
 </p>
 
 ###
@@ -93,7 +130,7 @@
 <!-- ACHIEVEMENTS -->
 <h3>🏆 Примеры достижений</h3>
 <ul>
-  <li>Запустил Telegram-бота с аудиторией <b>50 000+ пользователей</b>, к сожалению, проект закрылся.</li>
+  <li>Запустил Telegram-бота с аудиторией <b>60 000+ пользователей</b>, к сожалению, проект закрылся.</li>
   <li>Спроектировал микросервисную архитектуру с <b>очередями</b> и <b>retry-механизмами</b> (TTL).</li>
   <li>В роли тимлида: собирал команду, проводил <b>code review</b>, организовывал релизы в формате <b>Agile/Scrum</b>.</li>
 </ul>
@@ -117,7 +154,7 @@
 </p>
 <p align="left"><strong>👉 На интервью могу рассказать о реальных кейсах:</strong></p>
 <ul>
-  <li>запуск Telegram-бота с аудиторией <strong>50 000+</strong> пользователей;</li>
+  <li>запуск Telegram-бота с аудиторией <strong>60 000+</strong> пользователей;</li>
   <li>проектирование микросервисной архитектуры с очередями и retry-механизмами;</li>
   <li>опыт тимлида: сбор команды, ведение задач, релизы от идеи до продакшена.</li>
 </ul>
