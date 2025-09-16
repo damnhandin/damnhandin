@@ -44,7 +44,7 @@
   <li><b>Базы данных:</b> PostgreSQL, MySQL, SQLite (SQLAlchemy, Asyncpg)</li>
   <li><b>Очереди и асинхронность:</b> RabbitMQ, retry-queues (TTL)</li>
   <li><b>Инфраструктура:</b> Docker, Docker Compose, CI/CD (GitHub Actions)</li>
-  <li><b>Тестирование и качество:</b> pytest, unittest, flake8, black, mypy</li>
+  <li><b>Тестирование и качество:</b> pytest, unittest, flake8, black, mypy, ruff</li>
   <li><b>Безопасность:</b> защита от SQLi, CSRF, XSS; rate limiting; JWT/OAuth2; CORS</li>
   <li><b>Командные практики:</b> Agile/Scrum, code review, Git Flow</li>
   <li><b>Документация:</b> OpenAPI/Swagger, автоматизация (Python + VBA)</li>
