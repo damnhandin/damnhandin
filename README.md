@@ -170,7 +170,7 @@
 <!-- HOW I WORK -->
 <h3>🧩 Как я работаю</h3>
 <ul>
-  <li><b>Качество кода:</b> pytest, покрытие критичных путей, pre-commit (flake8, black, mypy).</li>
+  <li><b>Качество кода:</b> pytest, покрытие критичных путей, pre-commit (flake8, black, mypy, ruff).</li>
   <li><b>Процессы:</b> короткие спринты, четкие Definition of Done, обязательный code review.</li>
   <li><b>API:</b> REST с OpenAPI/Swagger, OAuth2/JWT, идемпотентность, rate limiting.</li>
 </ul>
