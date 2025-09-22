@@ -128,7 +128,7 @@
 <!-- PORTFOLIO -->
 <h3>📌 Портфолио: AxonFlow Bot</h3>
 <p align="left">
-  <a href="https://t.me/AxonFlow_bot" target="_blank"><b>AxonFlow Bot</b></a>, 
+  <a href="https://t.me/AxonFlow_bot" target="_blank"><b>AxonFlow Bot</b></a> — 
   Telegram-бот с интеграцией AI и продуманной микросервисной архитектурой.  
 </p>
 
