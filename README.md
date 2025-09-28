@@ -26,7 +26,7 @@
 Разрабатывал:
 <ul>
 <li>сайт на <b>Django</b> с админкой и БД</li>
-<li>Лендинги на <b>HTML</b>, <b>CSS</b>, <b>TailwindCSS</b> и <b>JavaScript</b> с отправкой заявок на: 
+<li>Лендинги на <b>HTML</b>, <b>CSS</b>, <b>TailwindCSS</b> и <b>JavaScript</b> с отправкой заявок на:
 [Контейнер1]: API-сервис (<b>FastAPI</b>) с rate limit, который отправляет заявку с помощью Telegram-бота (<b>Aiogram</b>) администратору оставленную клиентом заявку, 
 [Контейнер2]: Для регистрации администраторов (по telegram_id) были написаны простые текстовые хендлеры</li>
 <li>Бот <a href="https://t.me/AxonFlow_bot">AxonFlow_bot</a> (FastAPI, Aiogram, RabbitMQ, Redis, Celery, Beat, Flower, SqlAlchemy(PostgreSQL), Alembic, Docker и т.д.)</li>
