@@ -31,7 +31,7 @@
   <li>[Контейнер1]: API-сервис (<b>FastAPI</b>) с rate limit, который отправляет администратору с помощью Telegram-бота (<b>Aiogram</b>) заявку от клиента сайта</li>
   <li>[Контейнер2]: Для регистрации администраторов (по telegram_id) были написаны простые текстовые хендлеры</li>
   </ul>
-    <li>Бот <a href="https://t.me/AxonFlow_bot">AxonFlow_bot</a> (FastAPI, Aiogram, RabbitMQ, Redis, Celery, Beat, Flower, SqlAlchemy(PostgreSQL), Alembic, Docker и т.д.)</li>
+    <li>Бот <a href="https://t.me/AxonFlow_bot">AxonFlow_bot</a> (<b>FastAPI</b>, <b>Aiogram</b>, <b>RabbitMQ</b>, <b>Redis</b>, <b>Celery</b>, <b>Beat</b>, <b>Flower</b>, <b>SqlAlchemy(PostgreSQL)</b>, <b>Alembic</b>, <b>Docker</b> и т.д.)</li>
 </ul>
 В работе с базами данных активно использую <b>PostgreSQL</b> 
 через <b>SQLAlchemy</b> или <b>asyncpg</b>, применяю <b>транзакции</b> 
