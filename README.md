@@ -21,7 +21,7 @@
 <p align="left">
 Я Python-разработчик с опытом создания десятков <b>Telegram-ботов</b>, 
 один из которых использовало более <b>60 000 пользователей</b>.<br/> 
-Работаю с <b>Aiogram 2/3</b>, FastAPI, RabbitMQ, Celery, Beat 
+Работаю с <b>Aiogram 2/3</b>, FastAPI, RabbitMQ, Celery Worker, Celery Beat , Celery Flower
 и интеграцией AI (<b>API, LLM</b>).<br/> 
 Разрабатывал:
 <ul>
@@ -31,7 +31,7 @@
   <li>[Контейнер1]: API-сервис (<b>FastAPI</b>) с rate limit, который отправляет администратору с помощью Telegram-бота (<b>Aiogram</b>) заявку от клиента сайта</li>
   <li>[Контейнер2]: Для регистрации администраторов (по telegram_id) были написаны простые текстовые хендлеры</li>
   </ul>
-    <li>Бот <a href="https://t.me/AxonFlow_bot">AxonFlow_bot</a> (<b>FastAPI</b>, <b>Aiogram</b>, <b>RabbitMQ</b>, <b>Redis</b>, <b>Celery</b>, <b>Beat</b>, <b>Flower</b>, <b>SqlAlchemy(PostgreSQL)</b>, <b>Alembic</b>, <b>Docker</b> и т.д.)</li>
+    <li>Бот <a href="https://t.me/AxonFlow_bot">AxonFlow_bot</a> (<b>FastAPI</b>, <b>Aiogram 3</b>, <b>RabbitMQ</b>, <b>Redis</b>, <b>Celery Worker</b>, <b>Celery Beat</b>, <b>Celery Flower</b>, <b>SqlAlchemy(PostgreSQL)</b>, <b>Alembic</b>, <b>Docker</b> и т.д.)</li>
 </ul>
 В работе с базами данных активно использую <b>PostgreSQL</b> 
 через <b>SQLAlchemy</b> или <b>asyncpg</b>, применяю <b>транзакции</b> 
