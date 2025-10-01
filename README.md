@@ -48,9 +48,9 @@
 
 <ul>
   <li><b>Backend:</b> Python, FastAPI, Django, aiohttp, aiogram 2/3</li>
-  <li><b>Базы данных:</b> PostgreSQL, MySQL, SQLite (SQLAlchemy, Asyncpg)</li>
-  <li><b>Очереди и асинхронность:</b> RabbitMQ, retry-queues (TTL)</li>
-  <li><b>Инфраструктура:</b> Docker, Docker Compose, CI/CD (GitHub Actions)</li>
+  <li><b>Базы данных:</b> PostgreSQL, MySQL, SQLite (SQLAlchemy, Asyncpg), Alembic</li>
+  <li><b>Очереди и асинхронность:</b> RabbitMQ, retry-queues (TTL), AsyncIO, Celery, httpx, aiohttp</li>
+  <li><b>Инфраструктура:</b> Docker, Docker Compose</li>
   <li><b>Тестирование и качество:</b> pytest, unittest, flake8, black, mypy, ruff</li>
   <li><b>Безопасность:</b> защита от SQLi, CSRF, XSS; rate limiting; JWT/OAuth2; CORS</li>
   <li><b>Командные практики:</b> Agile/Scrum, code review, Git Flow</li>
